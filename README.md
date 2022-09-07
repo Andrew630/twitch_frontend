@@ -1,1 +1,1 @@
-This is the front-end code for the twitch projects
+This is the front-end code for the twitch project
